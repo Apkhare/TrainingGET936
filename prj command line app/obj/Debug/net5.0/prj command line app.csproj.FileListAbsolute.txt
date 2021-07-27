@@ -1,0 +1,5 @@
+C:\Users\Anil Kumar Khare\Desktop\Aparna\C#\prj command line app\obj\Debug\net5.0\prj command line app.csproj.AssemblyReference.cache
+C:\Users\Anil Kumar Khare\Desktop\Aparna\C#\prj command line app\obj\Debug\net5.0\prj command line app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anil Kumar Khare\Desktop\Aparna\C#\prj command line app\obj\Debug\net5.0\prj command line app.AssemblyInfoInputs.cache
+C:\Users\Anil Kumar Khare\Desktop\Aparna\C#\prj command line app\obj\Debug\net5.0\prj command line app.AssemblyInfo.cs
+C:\Users\Anil Kumar Khare\Desktop\Aparna\C#\prj command line app\obj\Debug\net5.0\prj command line app.csproj.CoreCompileInputs.cache
