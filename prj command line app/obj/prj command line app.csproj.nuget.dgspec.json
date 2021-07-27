@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\C#\\prj command line app\\prj command line app.csproj": {}
+    "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\gitdemo\\prj command line app\\prj command line app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\C#\\prj command line app\\prj command line app.csproj": {
+    "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\gitdemo\\prj command line app\\prj command line app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\C#\\prj command line app\\prj command line app.csproj",
+        "projectUniqueName": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\gitdemo\\prj command line app\\prj command line app.csproj",
         "projectName": "prj command line app",
-        "projectPath": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\C#\\prj command line app\\prj command line app.csproj",
+        "projectPath": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\gitdemo\\prj command line app\\prj command line app.csproj",
         "packagesPath": "C:\\Users\\Anil Kumar Khare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\C#\\prj command line app\\obj\\",
+        "outputPath": "C:\\Users\\Anil Kumar Khare\\Desktop\\Aparna\\gitdemo\\prj command line app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anil Kumar Khare\\AppData\\Roaming\\NuGet\\NuGet.Config",

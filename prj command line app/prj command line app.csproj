@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>prj_command_line_app</RootNamespace>
+    <StartupObject>prj_command_line_app.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
