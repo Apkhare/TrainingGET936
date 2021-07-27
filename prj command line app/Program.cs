@@ -7,6 +7,7 @@ namespace prj_command_line_app
         static void Main(string[] args)
         {
             Console.WriteLine("Good morning!");
+            Console.WriteLine("we got this!");
         }
     }
 }
